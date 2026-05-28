@@ -1,5 +1,5 @@
 # this is a file for listing every things i know in python (i think so) since i'm a junior dev i'm still learning 
-
+import this
 # 1. variable
 
 str = "10.0"
@@ -24,8 +24,7 @@ for letter in word:
 
 while i > 1:
     i += 1
-    
-# 
+
     
 
 
