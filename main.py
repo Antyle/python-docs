@@ -25,6 +25,8 @@ for letter in word:
 while i > 1:
     i += 1
 
+print("etnvoilà c'est mon repo ou blablabla no sence here")
+
     
 
 
